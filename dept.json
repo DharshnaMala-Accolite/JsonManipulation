@@ -1,0 +1,27 @@
+{
+  "department": [
+    {
+      "id": 3,
+      "name": "CSE",
+      "location": "GJ Block"
+    }
+	,
+    {
+      "id": 4,
+      "name": "ECE",
+      "location": "Canteen"
+    }
+	,
+    {
+      "id": 6,
+      "name": "Maths",
+      "location": "Bund"
+    }
+	,
+    {
+      "id": 1,
+      "name": "Aero",
+      "location": "Library"
+    }
+  ]
+}
